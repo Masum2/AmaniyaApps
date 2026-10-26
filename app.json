@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "MyAmaniya",
+    "slug": "myamaniya",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#eef2ff"
+    },
+    "android": {
+      "package": "com.myamaniya.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.myamaniya.app"
+    }
+  }
+}
